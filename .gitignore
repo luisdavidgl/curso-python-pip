@@ -250,4 +250,7 @@ $RECYCLE.BIN/
 # Archivos PNG
 *.png
 
+# Archivos de datos
+*.csv
+
 # End of https://www.toptal.com/developers/gitignore/api/windows,linux,macos,python
